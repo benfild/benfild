@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on completing my degree on Telecommunications Engineering
 - 🌱 I’m currently learning Web programming
-- 👯 I’m looking to collaborate on viewJS
-- 🤔 I’m looking for help with viewJS
 - 💬 Ask me about Anything
 - 📫 How to reach me: fildben@gmail.com
 - 😄 Pronouns: Born in the dawn to die in the twighlight
