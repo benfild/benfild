@@ -10,3 +10,6 @@
 - 📫 How to reach me: fildben@gmail.com
 - 😄 Pronouns: Born in the dawn to die in the twighlight
 - ⚡ Fun fact: In this Life for the next 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benfild)](https://github.com/anuraghazra/github-readme-stats)
