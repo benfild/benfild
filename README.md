@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on completing my degree on Telecommunications Engineering
-- 🌱 I’m currently learning Web programming
+- 🌱 I’m currently learning Web programming, Data Science and AI
 - 💬 Ask me about Anything
 - 📫 How to reach me: fildben@gmail.com
 - 😄 Pronouns: Born in the dawn to die in the twighlight
