@@ -12,4 +12,4 @@
 - ⚡ Fun fact: In this Life for the next 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benfild)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benfild&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
